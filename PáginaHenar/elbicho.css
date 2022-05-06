@@ -1,0 +1,41 @@
+
+body{
+	
+	background-color: palegoldenrod;
+
+}
+header{
+	text-align: center;
+}
+
+main{
+	display: flex;
+	flex-direction: row;
+	justify-content: row;
+
+}
+	
+
+.main{
+	display: flex;
+	flex-direction: row;
+	justify-content: row;
+}
+
+.biografia{
+	margin: 20px;
+	margin-top: 0;
+}
+section{
+
+	margin: 20px;
+	margin-top: 0;
+}
+input{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  padding: 8px;
+  background-color: steelblue;
+}
