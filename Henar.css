@@ -11,7 +11,9 @@ h2{
     text-align: center;
 }
 
-
+.cuerpo{
+    display: flex;
+}
 
 .menu{
     list-style-type: none;
@@ -43,6 +45,17 @@ h2{
     margin: auto;
     border-radius: 8px;
 
+}
+aside{
+    margin-left: 8px;
+    width: 25%;
+    margin-bottom: 10px;
+    
+}
+section{
+   
+   width: 75%; 
+   
 }
 
 footer{
@@ -87,4 +100,5 @@ footer{
     padding: 8px;
    
 }
+
 
