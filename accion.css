@@ -5,6 +5,13 @@
  
 
 }
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: black;
+}
 .grid-item {
 	margin-left: 12px;
 	margin-bottom: 10px; 
