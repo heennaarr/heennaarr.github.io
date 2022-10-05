@@ -33,6 +33,13 @@ header{
 body{
 	background-color: grey;
 }
+img:hover{
+  border-radius:20%;
+  -webkit-border-radius:10%;
+  box-shadow: 0px 0px 40px 18px red;
+  -webkit-box-shadow: 0px 0px 10px 10px #4b40e9;
+
+  }
 a{
   text-decoration: none;
 }
